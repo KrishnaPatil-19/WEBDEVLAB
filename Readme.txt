@@ -1,0 +1,1 @@
+If any HTML pages have image, ext css file, audio or video in them, then please create the destination of respective files as shown in source code to display them properly.
